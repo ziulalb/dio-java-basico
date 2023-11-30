@@ -1,3 +1,4 @@
+package edu.ziul.primeirasemana;
 public class App {
     public static void main(String[] args) {
         String primNome = "Luiz";
